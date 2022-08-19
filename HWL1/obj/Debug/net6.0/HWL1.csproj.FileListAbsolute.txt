@@ -1,0 +1,15 @@
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\bin\Debug\net6.0\HWL1.exe
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\bin\Debug\net6.0\HWL1.deps.json
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\bin\Debug\net6.0\HWL1.runtimeconfig.json
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\bin\Debug\net6.0\HWL1.dll
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\bin\Debug\net6.0\HWL1.pdb
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.csproj.AssemblyReference.cache
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.AssemblyInfoInputs.cache
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.AssemblyInfo.cs
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.csproj.CoreCompileInputs.cache
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.dll
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\refint\HWL1.dll
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.pdb
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\HWL1.genruntimeconfig.cache
+C:\Users\nikkl\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks\HWL1\obj\Debug\net6.0\ref\HWL1.dll
